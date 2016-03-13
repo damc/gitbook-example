@@ -41,7 +41,13 @@ git push gitbook master
 ![更新3](./update3.png)
 ![更新4](./update4.png)
 
-無事に更新できました！これで作業は全て完了です！
+良い感じに無事に更新できました！これで作業は全て完了です！
+
+公開もちゃんとされています。今回のこのまとめた文書も以下のURLから確認可能です。
+
+https://gomachan46.gitbooks.io/how-to-use-gitbook/content/
+
+https://gomachan46.gitbooks.io/how-to-use-gitbook
 
 # 参考
 
