@@ -22,3 +22,5 @@
   * gomachan46
 * 本のタイトル
   * how-to-use-gitbook
+
+のような情報になります。

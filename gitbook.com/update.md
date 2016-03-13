@@ -43,4 +43,6 @@ git push gitbook master
 
 無事に更新できました！これで作業は全て完了です！
 
+# 参考
 
+https://help.gitbook.com/build/push.html
