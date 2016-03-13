@@ -4,6 +4,11 @@
 
 https://www.gitbook.com/
 
+> The platform GitBook.com is like an "Heroku for books": you can create a book on it (public, or private) and update it using git push.
+
+と謳うように、`本に特化したHeroku`みたいなもので、`git push`ベースで文書のデプロイを行ったりも出来ます。
+
+
 例を出すと、以下のような形で簡単に情報を公開することができます。綺麗にまとまっていて見やすいですね。
 
 https://www.gitbook.com/book/gitbookio/javascript/details
