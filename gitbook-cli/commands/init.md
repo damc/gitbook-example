@@ -14,3 +14,7 @@ gitbook init
 `README.md`に関してはよく見かけると思う普通の.mdファイルなのですが、`GitBook`特有なものとして`SUMMARY.md`というものも生成されます。
 
 `SUMMARY.md`に関しては`GitBook`の機能を引き出すために少し書き方のルールがあるので、後ほど説明していきます。
+
+# 参考
+
+* [ルール](/gitbook-cli/rule.md)

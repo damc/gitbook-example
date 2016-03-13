@@ -8,3 +8,8 @@
 * `gitbook.com`という`GitBook`特化型ホスティングサービス
 
 この2つを順番に説明していきます。
+
+# 参考
+
+* [GitBook](/introduce/gitbook.md)
+* [gitbook.com](/introduce/gitbook.com.md)

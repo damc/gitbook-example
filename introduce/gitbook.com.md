@@ -16,3 +16,7 @@ https://www.gitbook.com/book/gitbookio/javascript/details
 https://gitbookio.gitbooks.io/javascript/content/
 
 詳しくは後ほど説明していきます。
+
+# 参考
+
+* [gitbook.comへの公開](gitbook.com/README.md)

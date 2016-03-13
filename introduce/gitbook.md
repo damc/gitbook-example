@@ -9,3 +9,7 @@ https://github.com/GitbookIO/gitbook
 ファイルの保存を検知して自動変換を行ってくれる機能なども提供してくれていて文書作成をサポートしてくれます。
 
 詳しくは後ほど説明していきます。
+
+# 参考
+
+* [gitbookコマンド](/gitbook-cli/README.md)
