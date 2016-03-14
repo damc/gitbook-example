@@ -12,4 +12,4 @@ https://github.com/GitbookIO/gitbook
 
 # 参考
 
-* [gitbookコマンド](/gitbook-cli/README.md)
+* [gitbookコマンド](../gitbook-cli/README.md)

@@ -19,4 +19,4 @@ https://gitbookio.gitbooks.io/javascript/content/
 
 # 参考
 
-* [gitbook.comへの公開](gitbook.com/README.md)
+* [gitbook.comへの公開](../gitbook.com/README.md)

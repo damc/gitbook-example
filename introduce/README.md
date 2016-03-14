@@ -11,5 +11,5 @@
 
 # 参考
 
-* [GitBook](/introduce/gitbook.md)
-* [gitbook.com](/introduce/gitbook.com.md)
+* [GitBook](./gitbook.md)
+* [gitbook.com](./gitbook.com.md)

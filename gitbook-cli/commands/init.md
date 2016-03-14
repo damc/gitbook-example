@@ -17,4 +17,4 @@ gitbook init
 
 # 参考
 
-* [ルール](/gitbook-cli/rule.md)
+* [ルール](../rule.md)
